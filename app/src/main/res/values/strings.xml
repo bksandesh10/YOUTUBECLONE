@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <string name="youtube">Youtube</string>
+    <string name="login">login now\n</string>
+    <string name="login_now">Login Now</string>
+    <string name="login_or_signup">login or signup</string>
+    <string name="password">password\n</string>
+    <string name="username">username\n</string>
+    <string name="Username">Username</string>
+    <string name="click_here_to_signup">Click here to signUp</string>
+    <string name="click_here_to_loginup">click here to login</string>
+    <string name="signup">signUp</string>
+    <string name="name">Name\n</string>
+    <string name="email">Email\n</string>
+    <string name="Age">Age\n</string>
+    <string name="Create_new_account">create new account\n</string>
+    <string name="enter_code">enter code\n</string>
+    <string name="code">code</string>
+    <string name="submit">submit</string>
+    <string name="userInfo">userInfo\n</string>
+    <string name="Welcome">Welcome\n</string>
+    <string name="logout">Logout</string>
+    <string name="channel">Channel</string>
+    <string name="YouInfo">your info\n</string>
+    <string name="Name">Name\n</string>
+    <string name="skip">skip</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="selectimage">selectImage</string>
+    <string name="select_Image">select image\n</string>
+    <string name="add">add Image</string>
+    <string name="write_unique_name">Write you name</string>
+    <string name="write_uniue_name">write unique name</string>
+    <string name="loading_please_wait">Loading, please wait...</string>
+</resources>
